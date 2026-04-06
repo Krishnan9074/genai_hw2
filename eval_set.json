@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sales_followup_normal_01",
+    "input": {
+      "prospect_name": "Maya Chen",
+      "company": "Northstar Logistics",
+      "product": "RouteFlow",
+      "last_interaction": "Demo completed 5 days ago; prospect asked about implementation timeline and pricing for a 25-person operations team.",
+      "notes": "Maya said the team is spending too much time updating delivery schedules manually. She wants to share a recap with her operations director before deciding on next steps."
+    },
+    "good_output_criteria": "The email should be professional, concise, and friendly. It should reference the recent demo, acknowledge Maya's interest in implementation timeline and pricing, reinforce the product's relevance to reducing manual scheduling work, and offer a clear next step such as answering questions or scheduling a follow-up conversation. It should avoid being overly pushy or repeating generic sales language."
+  },
+  {
+    "id": "sales_followup_edge_cold_02",
+    "input": {
+      "prospect_name": "Daniel Ruiz",
+      "company": "Crescent Health Partners",
+      "product": "InsightCRM",
+      "last_interaction": "Prospect has not responded for 3 months after an initial pricing conversation.",
+      "notes": "Daniel was interested in reporting automation for his regional sales managers but stopped replying after saying he needed to revisit priorities in the new quarter."
+    },
+    "good_output_criteria": "The email should tactfully re-engage a prospect who has gone cold for 3 months without sounding annoyed or guilt-inducing. It should briefly remind Daniel of the prior topic, acknowledge that priorities may have shifted, and make it easy to reply with interest, timing, or a polite pass. It should use a low-pressure tone and a simple call to action."
+  },
+  {
+    "id": "sales_followup_hard_sparse_03",
+    "input": {
+      "prospect_name": "Avery",
+      "company": "Pine & Co.",
+      "product": "Analytics platform",
+      "last_interaction": "Met briefly at a trade show booth last week.",
+      "notes": "Very little information captured. No confirmed pain points, budget, team size, timeline, or product requirements."
+    },
+    "good_output_criteria": "The email should avoid hallucinating details, false claims, or invented business context. It should not pretend there was a detailed conversation, promise outcomes not discussed, or mention features, pricing, ROI, or implementation specifics that were never provided. A good response should stay general but still be useful, remind Avery where the interaction happened, and invite them to share whether continuing the conversation would be helpful."
+  },
+  {
+    "id": "sales_followup_multi_stakeholder_04",
+    "input": {
+      "prospect_name": "Priya Natarajan",
+      "company": "Elm Street Retail Group",
+      "product": "ShelfSense",
+      "last_interaction": "Follow-up call 2 days ago with Priya and her IT manager.",
+      "notes": "Priya is focused on reducing stockouts across 40 stores, while the IT manager asked about integration effort with the existing ERP. They requested a summary they can circulate internally."
+    },
+    "good_output_criteria": "The email should summarize the conversation in a way that works for multiple stakeholders. It should speak to both business value and the implementation concern already raised, without overloading the message with technical detail. It should be easy to forward internally and should propose a sensible next step, such as sharing technical requirements or setting up a deeper review."
+  },
+  {
+    "id": "sales_followup_competitor_05",
+    "input": {
+      "prospect_name": "Jordan Patel",
+      "company": "Vertex Advisory",
+      "product": "ClearPipeline",
+      "last_interaction": "Discovery call yesterday; prospect said they are also evaluating two competitors.",
+      "notes": "Jordan cares most about onboarding speed and ease of use for a small sales team. Prospect asked for a short recap instead of a long product pitch."
+    },
+    "good_output_criteria": "The email should be concise and confident without disparaging competitors or making unsupported comparison claims. It should focus on the priorities Jordan explicitly mentioned, reflect that they asked for a brief recap, and include a straightforward next step. The tone should be helpful and consultative rather than defensive or aggressive."
+  }
+]
