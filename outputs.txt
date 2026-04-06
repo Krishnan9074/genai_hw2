@@ -1,0 +1,142 @@
+===== Case ID: sales_followup_normal_01 =====
+Input Summary:
+  Prospect Name: Maya Chen
+  Company: Northstar Logistics
+  Product: RouteFlow
+  Last Interaction: Demo completed 5 days ago; prospect asked about implementation timeline and pricing for a 25-person operations team.
+  Notes: Maya said the team is spending too much time updating delivery schedules manually. She wants to share a recap with her operations director before deciding on next steps.
+
+Generated Email:
+  Subject: Follow-Up on RouteFlow Demo for Northstar Logistics
+
+  Dear Maya,
+
+  I hope this message finds you well. I wanted to thank you for attending the RouteFlow demo last week. It was a pleasure discussing how our solution can help streamline your team’s delivery scheduling processes.
+
+  I understand your team is eager to reduce the time spent on manual updates. RouteFlow is designed to automate and enhance efficiency, making it a perfect fit for your needs. 
+
+  Regarding your questions on the implementation timeline and pricing for a 25-person team, I’m here to provide any details you need. Please let me know if there’s a convenient time for you and your operations director to discuss this further or if you have any specific questions I can address via email.
+
+  Looking forward to your feedback.
+
+  Best regards,
+
+  [Your Name]  
+  [Your Position]  
+  [Your Contact Information]
+
+===== Case ID: sales_followup_edge_cold_02 =====
+Input Summary:
+  Prospect Name: Daniel Ruiz
+  Company: Crescent Health Partners
+  Product: InsightCRM
+  Last Interaction: Prospect has not responded for 3 months after an initial pricing conversation.
+  Notes: Daniel was interested in reporting automation for his regional sales managers but stopped replying after saying he needed to revisit priorities in the new quarter.
+
+Generated Email:
+  Subject: Checking In on Your CRM Needs
+
+  Hi Daniel,
+
+  I hope this message finds you well. A few months ago, we discussed how InsightCRM's reporting automation could support your regional sales managers at Crescent Health Partners.
+
+  I understand that priorities may have shifted in the new quarter, and I wanted to see if revisiting InsightCRM is still of interest. Our automation features are designed to streamline processes and could be a significant asset for your team.
+
+  Please feel free to let me know if there’s a better time to reconnect or if you’d prefer to pass at this moment. I'm here to assist whenever you're ready.
+
+  Looking forward to your thoughts.
+
+  Best regards,
+
+  [Your Full Name]  
+  [Your Position]  
+  [Your Contact Information]  
+  [Company Name]
+
+===== Case ID: sales_followup_hard_sparse_03 =====
+Input Summary:
+  Prospect Name: Avery
+  Company: Pine & Co.
+  Product: Analytics platform
+  Last Interaction: Met briefly at a trade show booth last week.
+  Notes: Very little information captured. No confirmed pain points, budget, team size, timeline, or product requirements.
+
+Generated Email:
+  Subject: Following Up from Our Meeting at the Trade Show
+
+  Hi Avery,
+
+  I hope this message finds you well. It was a pleasure meeting you last week at the trade show booth for Pine & Co.
+
+  I wanted to briefly reconnect and see if there is interest in learning more about our analytics platform. If you're open to it, I'd love to explore how it might support some of your objectives at Pine & Co.
+
+  Please let me know if there’s a convenient time for us to chat further. I’m here to provide any information you may need.
+
+  Looking forward to the possibility of working together.
+
+  Best regards,
+
+  [Your Name]  
+  [Your Position]  
+  [Your Company]  
+  [Your Contact Information]
+
+===== Case ID: sales_followup_multi_stakeholder_04 =====
+Input Summary:
+  Prospect Name: Priya Natarajan
+  Company: Elm Street Retail Group
+  Product: ShelfSense
+  Last Interaction: Follow-up call 2 days ago with Priya and her IT manager.
+  Notes: Priya is focused on reducing stockouts across 40 stores, while the IT manager asked about integration effort with the existing ERP. They requested a summary they can circulate internally.
+
+Generated Email:
+  Subject: Exciting Next Steps with ShelfSense for Elm Street Retail Group
+
+  Hi Priya,
+
+  I appreciated our follow-up call with you and your IT manager earlier this week. I'm pleased to outline how ShelfSense can help reduce stockouts across your 40 stores while seamlessly integrating with your current ERP system.
+
+  **Business Value:**
+  ShelfSense's advanced analytics ensure optimal inventory levels, helping to minimize stockouts and enhance customer satisfaction. Our clients typically see a significant reduction in missed sales opportunities and an increase in operational efficiency.
+
+  **Integration Details:**
+  Our integration process is streamlined and requires minimal disruption. Our technical team is ready to collaborate closely with yours to ensure a smooth setup.
+
+  As a next step, I propose sharing detailed technical requirements and setting up a deeper review session. This will allow us to address any specific questions and align our resources effectively with your goals.
+
+  Please let me know a convenient time for your team, or feel free to forward this email internally. I'm here to support every step of the way.
+
+  Looking forward to hearing from you.
+
+  Best regards,
+
+  [Your Name]  
+  [Your Position]  
+  [Your Contact Information]
+
+===== Case ID: sales_followup_competitor_05 =====
+Input Summary:
+  Prospect Name: Jordan Patel
+  Company: Vertex Advisory
+  Product: ClearPipeline
+  Last Interaction: Discovery call yesterday; prospect said they are also evaluating two competitors.
+  Notes: Jordan cares most about onboarding speed and ease of use for a small sales team. Prospect asked for a short recap instead of a long product pitch.
+
+Generated Email:
+  Subject: Following Up on ClearPipeline for Vertex Advisory
+
+  Hi Jordan,
+
+  I hope this message finds you well. Thank you for the insightful conversation yesterday. I appreciate the opportunity to discuss how ClearPipeline can support Vertex Advisory.
+
+  As you focus on onboarding speed and ease of use for your sales team, ClearPipeline stands out with its intuitive interface and rapid implementation. Our goal is to ensure your team quickly adapts without a steep learning curve.
+
+  Should you have any questions or need further clarification, please feel free to reach out. I’m here to assist you.
+
+  Looking forward to your thoughts.
+
+  Best regards,
+
+  [Your Name]  
+  [Your Position]  
+  [Your Contact Information]
