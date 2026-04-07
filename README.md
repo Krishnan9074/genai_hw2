@@ -44,4 +44,5 @@ python app.py --case 1
 - If `OPENAI_API_KEY` is missing, the script exits with an error.
 - If `--case` does not match a valid case ID, the script exits and shows the available IDs.
 
-VIDEO_LINK: TODO
+VIDEO_LINK:
+https://www.loom.com/share/71f00342ebd748c0af2164dffaf83195
